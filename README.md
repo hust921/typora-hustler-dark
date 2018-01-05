@@ -6,4 +6,11 @@ This theme is a [**Typora**](https://typora.io) mono theme, based on [monospace-
 
 ## Preview:
 
-![preview](hustler-dark.png)
+![preview](https://github.com/hust921/typora-hustler-dark/raw/master/hustler-dark.PNG)
+
+## Installation instructions
+1. Open Typora
+2. Goto Files->Preferences
+3. Click **Open Theme Folder**
+4. Copy files from the *theme* folder to here
+5. Restart Typora and change theme
